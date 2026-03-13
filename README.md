@@ -244,7 +244,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Virendra Gond]
 
 ## 🙏 Acknowledgments
 
